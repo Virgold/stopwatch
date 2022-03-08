@@ -1,0 +1,13 @@
+.watchContainer{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10rem;
+    width:80%;
+    background-color: black;
+}
+body{
+    background-color: black!important;
+}
+/* h1:after{
+    content: ":";
+} */
